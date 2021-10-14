@@ -2,7 +2,7 @@
 
 Desarrollo de trabajos prácticos relacionados con el área del Aprendizaje de Máquina.
 
-## Trabajo práctico 2 (TP-2)
+## TP-2: Análisis exploratorio e introducción a los clasificadores
 
 1. **Ejercicio 1:** análisis exploratorio general para percibir datos que presentan comportamientos anormales. Los datos estan relacionados con la situación sanitaria y epidemiológica de la municipalidad de Bahía Blanca, Argentina.
 
