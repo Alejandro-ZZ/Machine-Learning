@@ -1,6 +1,6 @@
-# Machine-Learning-UNS
+# Ejercicios Machine Learning
 
-Desarrollo de trabajos prácticos relacionados con el área del Aprendizaje de Máquina.
+Desarrollo de trabajos prácticos (TP) relacionados con el área del Aprendizaje de Máquina. 
 
 ## TP-2: Análisis exploratorio y clasificadores paramétricos
 
