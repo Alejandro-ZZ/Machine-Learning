@@ -8,6 +8,6 @@ Desarrollo de trabajos prácticos (TP) relacionados con el área del Aprendizaje
 
 ### 3. TP-4: [Clasificadores no paramérticos](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/tree/master/TP-4)
 
-## TP-5: Clustering
+### TP-5: Clustering
 
-## TP-6: Regresores y reducción de dimensionalidad
+### 5. TP-6: [Regresores y reducción de dimensionalidad](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/tree/master/TP-6)
