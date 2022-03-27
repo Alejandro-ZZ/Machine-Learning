@@ -2,11 +2,11 @@
 
 Desarrollo de trabajos prácticos (TP) relacionados con el área del Aprendizaje de Máquina. 
 
-## TP-2: Análisis exploratorio y clasificador paramétrico
+### 1. TP-2: [Análisis exploratorio y clasificador paramétrico](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/tree/master/TP-2)
 
-## TP-3: Clasificadores NO paramétricos: K-vecinos más cercanos (KNN)
+### 2. TP-3: [K-vecinos más cercanos (KNN)](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/tree/master/TP-3)
 
-## TP-4: Clasificadores
+### 3. TP-4: [Clasificadores no paramérticos](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/tree/master/TP-4)
 
 ## TP-5: Clustering
 
