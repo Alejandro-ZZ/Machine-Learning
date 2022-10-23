@@ -1,5 +1,5 @@
-# TP-1: Cuarteto de Anscombe
+# TP-1: Anscombe's quartet
 
 ## *1_Cuarteto_de_Anscombe.ipynb*
 
-Análisis, desarrollo y visualización de los cuatro conjuntos de datos de Anscombe en python.
+Analysis, development and visualization of the four Anscombe's datasets in python.
