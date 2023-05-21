@@ -1,5 +1,5 @@
 # TP-1: Anscombe's quartet
-[![](https://img.shields.io/badge/Jupyter%20Notebook-TP%201-f55?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/blob/master/TP-1/1_Anscombe_quartet.ipynb)
+[![](https://img.shields.io/badge/Source%20Code-TP%201-f55?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/blob/master/TP-1/1_Anscombe_quartet.ipynb)
 
 * **Description**: Analysis of the importance of the outliers effect and data visualization.
 
