@@ -1,9 +1,18 @@
-# TP-4: Clasificadores no paramérticos
+# TP-4: Machine learning classifiers
 
-## *4_Classifiers_cancer_diagnosis.ipynb*
+## Classifiers for cancer diagnosis
+[![](https://img.shields.io/badge/Source%20Code-TP%204-f55?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Alejandro-ZZ/Machine-Learning-UNS/blob/master/TP-4/4_Classifiers_cancer_diagnosis.ipynb)
 
-Desarrollo de distintos clasificadores que permitan predecir la benignidad o malignidad de un tumor. Se implementa el dataset *Winsconsin Breast Cancer*, el 
-cual contiene una tabla con 569 datos de histologías mamarias humanas dentro de las cuales 357 casos son tejido tumoral benigno y 212 tejido maligno.
+* **Description**: Creation of different Scikit-learn classification models to predict the benign or malignant nature of a tumor. Hyperparameters grid anlaysis and feature selection are implemented.
 
-Se evalúa la combinación de algunos hiperparámetros de los modelos por medio de la función GridSearchCV de Sklearn. Así mismo, se realiza una reducción de 
-dimensionalidad en los atributos para ver el comportamiento de los clasificadores y si estos mejoran respecto a la totalidad de los datos iniciales.
+* **Data**: *Winsconsin Breast Cancer* dataset with 569 human breast histology data within which 357 cases are benign tumor tissue and 212 malignant tissue.
+
+* **Topics**:
+  - `Classification models`
+  - `Hyperparameters analysis`
+  - `Feature engineering`
+  - `Machine learning`
+
+<p align="center">
+<img src="https://github.com/Alejandro-ZZ/Machine-Learning-UNS/assets/71833624/9ff373ed-ee86-4dad-b1eb-cb38aa366a94" height="800">
+</p>
