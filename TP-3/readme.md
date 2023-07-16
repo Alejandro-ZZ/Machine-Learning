@@ -56,3 +56,16 @@
 <img src="https://github.com/Alejandro-ZZ/Machine-Learning-UNS/assets/71833624/093db202-110f-4e05-8e69-a755a30b6177" height="800">
 </p>
 
+## Fog event forecasting
+[![](https://img.shields.io/badge/Source%20Code--f55?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Alejandro-ZZ/Machine-Learning/blob/master/TP-3/Fog_event_forecasting.ipynb)
+
+* **Description**: construction and comparison of decision tree ensembles to predict the occurrence of fog event which is defined as a decrease in visibility of less than 2 km. Random Forest, AdaBoost and Gradient Boosting algorithms are implemented to achieve this purpose, including some basic hyperparameter tuning.
+  
+* **Data**: More than 200.000 meteorological data from the Ezeiza (Buenos Aires, Argentina) weather station with hourly measurements from 1979 to 2011.
+
+* **Topics**:
+  - `Data analysis`
+  - `Hyperparameters analysis`
+  - `Time series`
+  - `Bagging and boosting`
+  - `Machine learning`
