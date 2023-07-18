@@ -5,7 +5,7 @@
 
 * **Description**: General exploratory analysis to find data showing abnormal behavior.
 
-* **Data**: Sanitary and epidemiological situation of the municipality of Bahía Blanca, Argentina.
+* **Data**: Sanitary and epidemiological situation of the municipality of Bahía Blanca, Argentina [(source)](https://datos.bahia.gob.ar/dataset?groups=covid19).
 
 * **Topics**:
   - `data visualization`
