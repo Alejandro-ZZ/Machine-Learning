@@ -6,7 +6,7 @@
 
 * **Description**: Creation of K-nearest neighbors (KNN) classifiers and evaluation of their performance based on the variation of parameters such as the percentage of data for training and testing, the number of nearest neighbors (k), among others.
 
-* **Data**: Random samples from a normal (Gaussian) distribution.
+* **Data**: Random samples from a normal (Gaussian) distribution [(source)](https://raw.githubusercontent.com/emmanueliarussi/DataScienceCapstone/master/3_MidtermProjects/ProjectBOM/data/attributes_spotify.csv).
 
 * **Topics**:
   - `K-nearest neighbor classifier`
