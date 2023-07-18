@@ -69,3 +69,8 @@
   - `Time series`
   - `Bagging and boosting`
   - `Machine learning`
+
+<p align="center">
+  <img src="https://github.com/Alejandro-ZZ/Machine-Learning/assets/71833624/57927c08-75d4-4b16-b73f-558f094cf779" height="800">
+  <img src="https://github.com/Alejandro-ZZ/Machine-Learning/assets/71833624/830ece5c-f2fc-4756-aac0-1748790589a2" height="800">
+</p>
