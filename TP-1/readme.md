@@ -3,7 +3,7 @@
 
 * **Description**: Analysis of the importance of the outliers effect and data visualization.
 
-* **Data**: Anscombe's datasets.
+* **Data**: Anscombe's datasets [(source)](https://en.wikipedia.org/wiki/Anscombe%27s_quartet).
 
 * **Topics**:
   - `data visualization`
