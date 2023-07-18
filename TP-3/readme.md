@@ -61,7 +61,7 @@
 
 * **Description**: construction and comparison of decision tree ensembles to predict the occurrence of fog event which is defined as a decrease in visibility of less than 2 km. Random Forest, AdaBoost and Gradient Boosting algorithms are implemented to achieve this purpose, including some basic hyperparameter tuning.
   
-* **Data**: More than 200.000 meteorological data from the Ezeiza (Buenos Aires, Argentina) weather station with hourly measurements from 1979 to 2011.
+* **Data**: More than 200.000 meteorological data from the Ezeiza (Buenos Aires, Argentina) weather station with hourly measurements from 1979 to 2011 [(source)](https://www.tutiempo.net/clima/ws-875760.html).
 
 * **Topics**:
   - `Data analysis`
